@@ -1,2 +1,7 @@
+.cache
 build
+sdkconfig
 sdkconfig.old
+
+main/font
+nvim.Makefile
