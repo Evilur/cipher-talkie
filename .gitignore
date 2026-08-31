@@ -3,5 +3,7 @@ build
 sdkconfig
 sdkconfig.old
 
+blueprints/.history
+
 main/font
 nvim.Makefile
