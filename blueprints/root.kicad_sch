@@ -1499,7 +1499,7 @@
 				(justify left top)
 			)
 		)
-		(pin "C1" bidirectional
+		(pin "C1" input
 			(at 180.34 102.87 0)
 			(uuid "2358dcb9-44ac-4883-9d86-9aa9d3fc4d9a")
 			(effects
@@ -1509,7 +1509,7 @@
 				(justify right)
 			)
 		)
-		(pin "C2" bidirectional
+		(pin "C2" input
 			(at 180.34 105.41 0)
 			(uuid "1cc37099-d013-4b22-afb4-d86eac0cd583")
 			(effects
@@ -1519,7 +1519,7 @@
 				(justify right)
 			)
 		)
-		(pin "C3" bidirectional
+		(pin "C3" input
 			(at 180.34 107.95 0)
 			(uuid "bf83dde7-616d-4fcc-9780-6a2dd5bccf40")
 			(effects
@@ -1529,7 +1529,7 @@
 				(justify right)
 			)
 		)
-		(pin "C4" bidirectional
+		(pin "C4" input
 			(at 180.34 110.49 0)
 			(uuid "f18b1ac2-6692-47fe-9667-a40ac453dcd7")
 			(effects
@@ -1539,7 +1539,7 @@
 				(justify right)
 			)
 		)
-		(pin "R1" bidirectional
+		(pin "R1" output
 			(at 180.34 113.03 0)
 			(uuid "cadd45d2-8e02-45bf-a2a4-1494ec02b113")
 			(effects
@@ -1549,7 +1549,7 @@
 				(justify right)
 			)
 		)
-		(pin "R2" bidirectional
+		(pin "R2" output
 			(at 180.34 115.57 0)
 			(uuid "0be1cd6a-d4ac-4e80-b7d9-e66508e9e984")
 			(effects
@@ -1559,7 +1559,7 @@
 				(justify right)
 			)
 		)
-		(pin "R3" bidirectional
+		(pin "R3" output
 			(at 180.34 118.11 0)
 			(uuid "7c7472c2-aa6b-4872-afc7-2f6c13ac5028")
 			(effects
@@ -1569,7 +1569,7 @@
 				(justify right)
 			)
 		)
-		(pin "R4" bidirectional
+		(pin "R4" output
 			(at 180.34 120.65 0)
 			(uuid "b624a1ee-be7c-43f3-87bf-feb4c75de261")
 			(effects
